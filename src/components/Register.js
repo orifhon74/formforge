@@ -116,7 +116,7 @@ function Register() {
                                 required
                             />
                             <p className="text-xs text-zinc-500 dark:text-zinc-400">
-                                Keep it simple for MVP. You can add password rules later.
+                                Simple password rules for now.
                             </p>
                         </div>
 
